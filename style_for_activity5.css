@@ -1,0 +1,43 @@
+.verse{
+    font-family:'Trebuchet MS';
+    font-style:normal;
+    font-size: 14pt;
+    margin-left: 2cm;
+    margin-right: 2cm;
+    font-weight: bold;
+    color: gold;
+}
+.chorus{
+    font-family:'Trebuchet MS';
+    font-size: 14pt;
+    margin-left: 4cm;
+    margin-right: 4cm;
+    font-style: italic;
+    font-weight: bold;
+}
+#song{
+    font-size: 14pt;
+    color: khaki;
+    font-family: "Arial";
+}
+body{
+    background-color: chocolate;
+}
+#artist{
+    font-size: 14pt;
+    font-family: 'Arial';
+    font-weight: bold;
+    color: moccasin;
+}
+#album{
+    font-size: 12pt ;
+    font-family: 'arial' ;
+    font-weight:'normal' ;
+    color: khaki
+}
+#year{
+    font-size:12pt ;
+    font-family:'arial' ;
+    font-weight: 'bold';
+    color: ivory;
+}
